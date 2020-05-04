@@ -2,4 +2,4 @@
 My personal repository
 
 Nerwish to Github been reading and looking at questions now branching into trying somethings
-Bit of a self taught SQL knoowledge / Python newbieish 
+Bit of a self taught SQL knowledge / Python newbieish 
